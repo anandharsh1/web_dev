@@ -1,4 +1,5 @@
 # web_dev
-This is my  git reprository for all my web devlopment codes 
+
+This is my git reprository for all my web devlopment codes
 <br>
-Author - Harsh Anand
+Author - Harsh
